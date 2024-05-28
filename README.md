@@ -20,6 +20,4 @@ With a 1.69% redistribution fee on every transaction, CeaserToken holders contin
 Deflationary Mechanism
 A 0.31% burn fee on every transaction ensures a constantly decreasing supply, driving up the value of the remaining tokens and benefiting all holders.
 
-Historical Inspiration
-Julius Caesar
 Julius Caesar, the famed Roman leader, revolutionized Rome's economy by introducing a tax system that ensured steady revenue for the state. CeaserToken draws inspiration from this historical milestone, creating a sustainable and self-regulating token economy that rewards holders and reduces supply over time.
