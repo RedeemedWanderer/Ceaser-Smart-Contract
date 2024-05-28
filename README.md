@@ -6,6 +6,7 @@ CeaserToken's tokenomics are designed to benefit all holders and create a sustai
 
 Total Supply: 110,000,000 CSR
 Decimals: 9
+
 Fee Structure
 Redistribution: 1.69%
 
