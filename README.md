@@ -1,9 +1,7 @@
 CeaserToken - Immutable PRC20 with Redistribution and Burn Mechanisms
 
-Introduction
 Welcome to the CeaserToken repository! CeaserToken (CSR) is an innovative ERC20 token designed to revolutionize the cryptocurrency landscape with its unique and powerful tokenomics. Inspired by Julius Caesar, the historical figure known for introducing the first tax system, CeaserToken combines modern blockchain technology with timeless economic principles.
 
-Tokenomics
 CeaserToken's tokenomics are designed to benefit all holders and create a sustainable, growing ecosystem:
 
 Total Supply: 110,000,000 CSR
